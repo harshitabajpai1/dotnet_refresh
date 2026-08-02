@@ -1,0 +1,12 @@
+<Solution>
+  <Project Path="ConfigurationLoadingSystem/ConfigurationLoadingSystem.csproj" />
+  <Project Path="TreeFlatteningUtility/TreeFlatteningUtility.csproj" />
+  <Project Path="LogMessageFormattingTool/LogMessageFormattingTool.csproj" />
+  <Project Path="RiskScoreCalculator/RiskScoreCalculator.csproj" />
+  <Project Path="SqlQueryBuilderUtility/SqlQueryBuilderUtility.csproj" />
+  <Project Path="CompoundInterestCalculator/CompoundInterestCalculator.csproj" />
+  <Project Path="BookOrderProcessingSystem/BookOrderProcessingSystem.csproj" />
+  <Project Path="LogLineParserTool/LogLineParserTool.csproj" />
+  <Project Path="ShapeAreaCalculator/ShapeAreaCalculator.csproj" />
+  <Project Path="MathOperationsLibrary/MathOperationsLibrary.csproj" />
+</Solution>
