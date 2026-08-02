@@ -1,0 +1,14 @@
+C:\cg_dotnet_harshita\Day1 Coding Assesment\BankBalanceTracker\bin\Debug\net10.0\BankBalanceTracker.exe
+C:\cg_dotnet_harshita\Day1 Coding Assesment\BankBalanceTracker\bin\Debug\net10.0\BankBalanceTracker.deps.json
+C:\cg_dotnet_harshita\Day1 Coding Assesment\BankBalanceTracker\bin\Debug\net10.0\BankBalanceTracker.runtimeconfig.json
+C:\cg_dotnet_harshita\Day1 Coding Assesment\BankBalanceTracker\bin\Debug\net10.0\BankBalanceTracker.dll
+C:\cg_dotnet_harshita\Day1 Coding Assesment\BankBalanceTracker\bin\Debug\net10.0\BankBalanceTracker.pdb
+C:\cg_dotnet_harshita\Day1 Coding Assesment\BankBalanceTracker\obj\Debug\net10.0\BankBalanceTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\cg_dotnet_harshita\Day1 Coding Assesment\BankBalanceTracker\obj\Debug\net10.0\BankBalanceTracker.AssemblyInfoInputs.cache
+C:\cg_dotnet_harshita\Day1 Coding Assesment\BankBalanceTracker\obj\Debug\net10.0\BankBalanceTracker.AssemblyInfo.cs
+C:\cg_dotnet_harshita\Day1 Coding Assesment\BankBalanceTracker\obj\Debug\net10.0\BankBalanceTracker.csproj.CoreCompileInputs.cache
+C:\cg_dotnet_harshita\Day1 Coding Assesment\BankBalanceTracker\obj\Debug\net10.0\BankBalanceTracker.dll
+C:\cg_dotnet_harshita\Day1 Coding Assesment\BankBalanceTracker\obj\Debug\net10.0\refint\BankBalanceTracker.dll
+C:\cg_dotnet_harshita\Day1 Coding Assesment\BankBalanceTracker\obj\Debug\net10.0\BankBalanceTracker.pdb
+C:\cg_dotnet_harshita\Day1 Coding Assesment\BankBalanceTracker\obj\Debug\net10.0\BankBalanceTracker.genruntimeconfig.cache
+C:\cg_dotnet_harshita\Day1 Coding Assesment\BankBalanceTracker\obj\Debug\net10.0\ref\BankBalanceTracker.dll
